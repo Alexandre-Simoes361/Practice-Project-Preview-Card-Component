@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/Alexandre-Simoes361/Practice/tree/cca0f30e49e8f40dcd52d706f953c47fa1e14d9e/Preview%20Card%20Component)
+- Solution URL: [Github Repo](https://github.com/Alexandre-Simoes361/Practice-Project-Preview-Card-Component)
 - Live Site URL: [Live Site](https://quiet-tiramisu-b46248.netlify.app/)
 
 ## My process

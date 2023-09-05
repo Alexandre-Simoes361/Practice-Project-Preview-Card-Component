@@ -16,7 +16,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-
 ## Overview
 
 ### The challenge
@@ -28,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Screenshot](Images/Screens/Screenshot Desktop.png)
-![Mobile Screenshot](Images/Screens/Screenshot Mobile.png)
+<img src="Images/Screens/Screenshot Desktop.png" alt="Desktop Screenshot" />
+<img src="Images/Screens/Screenshot Mobile.png" alt="Mobile Screenshot" />
 
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/Alexandre-Simoes361/Practice/tree/cca0f30e49e8f40dcd52d706f953c47fa1e14d9e/Preview%20Card%20Component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://quiet-tiramisu-b46248.netlify.app/)
 
 ## My process
 
